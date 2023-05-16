@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684236048 source:k:\computer graphics\line\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+

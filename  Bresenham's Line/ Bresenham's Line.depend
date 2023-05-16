@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684237418 source:k:\computer graphics\ bresenham's line\main.cpp
+	<iostream>
+	<graphics.h>
+
